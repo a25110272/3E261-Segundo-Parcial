@@ -1,2 +1,3 @@
 #pragma once
-typedef bool EstadoFoco;
+#include <string.h>
+typedef std:: string EstadoFoco;
